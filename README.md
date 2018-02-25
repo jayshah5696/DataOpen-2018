@@ -1,4 +1,4 @@
-# Winner of Texas DataOpen 2018
+﻿# Winner of Texas DataOpen 2018
 ---
 Datathons are a new type of live-action competition for STEM students. They are analogous to “Hackathons” for software engineers, but instead of building apps, contestants use real-world data to develop and substantiate solutions to a socially impactful problem.
 
@@ -31,7 +31,7 @@ purpose. Government official can use this data to deliver
 supplementary public transport service. The company like Uber
 can use this data for their own taxi service.
 
-![](https://media.giphy.com/media/l4EoPR59UqomvFUKk/giphy.gif)
+![image](https://media.giphy.com/media/l4EoPR59UqomvFUKk/giphy.gif)
 ### Data Description
 ### Approch
 
@@ -48,7 +48,7 @@ actually increasing the number of people using for-hire vehicles
   - Additionally, identifying key regions of NYC in which Uber has developed previously untapped FHV markets can inform future business strategies. It may be possible for a corporation to grow in a responsible manner while minimizing externalities to others
 
 3. **Methodology and Approch:**
-![](https://media.giphy.com/media/3ZALZoBtI1KJa/giphy.gif "Approching")
+![image](https://media.giphy.com/media/3ZALZoBtI1KJa/giphy.gif "Approching")
   - Converted data into common matric of NTA pickup location by creating polygon
 for each NTA from geographic data.
   - Determined number of rideshares in each NTA and classified by month and type
