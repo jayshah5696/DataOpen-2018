@@ -49,7 +49,7 @@ actually increasing the number of people using for-hire vehicles
 
 3. **Methodology and Approch:**
 
-![](https://media.giphy.com/media/3ZALZoBtI1KJa/giphy.gif "Approching")
+![](https://media.giphy.com/media/3ZALZoBtI1KJa/giphy.gif)
   - Converted data into common matric of NTA pickup location by creating polygon
 for each NTA from geographic data.
   - Determined number of rideshares in each NTA and classified by month and type
@@ -63,7 +63,7 @@ increase.
 
 4. **Data Manipulation and Exploration:**
 
-![](https://media.giphy.com/media/4gFSLfM8cuSk0/giphy.gif "Dificult")
+![](https://media.giphy.com/media/4gFSLfM8cuSk0/giphy.gif)
   - The first key problem we had to solve was finding out which NTA Uber 2014 pickups took
 place in. We were only given the GPS coordinates of the pickup, and we had to convert this
 information into an NTA.
@@ -84,4 +84,4 @@ suggesting that Uber is a more affordable option
 
 
 #### After the Marathon Event and commming out as a Winner.
-![image](https://media.giphy.com/media/55axqWdn0ASJ2/giphy.gif "Winner")
+![](https://media.giphy.com/media/55axqWdn0ASJ2/giphy.gif)
