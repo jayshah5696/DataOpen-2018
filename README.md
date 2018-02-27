@@ -31,8 +31,13 @@ purpose. Government official can use this data to deliver
 supplementary public transport service. The company like Uber
 can use this data for their own taxi service.
 
-![](https://media.giphy.com/media/l4EoPR59UqomvFUKk/giphy.gif)
+Uber, and other FHV( For hire vehicle) companies like it, have made difficult for traditional taxi drivers, as the increasing competition has driven down the costs and put many long-time drivers out of business. It has even been tough on Uber's own drivers, as the lower fares have been mostly passed down to them. With the advent of autonomus vehicles, it seems like the industry will soon look completely different than what we have been used for over 100 years.
+
+![](https://media.giphy.com/media/26uf1f7b4bQHjVr0c/giphy.gif)
 ### Data Description
+- Provided Dataset had 9 different CSV files.
+- Each consists of several million rows
+
 ### Approch
 
 1. **Hypothesis Statement:**
@@ -48,8 +53,10 @@ actually increasing the number of people using for-hire vehicles
   - Additionally, identifying key regions of NYC in which Uber has developed previously untapped FHV markets can inform future business strategies. It may be possible for a corporation to grow in a responsible manner while minimizing externalities to others
 
 3. **Methodology and Approch:**
+  
+  ![](https://media.giphy.com/media/3ZALZoBtI1KJa/giphy.gif)
+ 
 
-![](https://media.giphy.com/media/3ZALZoBtI1KJa/giphy.gif)
   - Converted data into common matric of NTA pickup location by creating polygon
 for each NTA from geographic data.
   - Determined number of rideshares in each NTA and classified by month and type
@@ -63,7 +70,7 @@ increase.
 
 4. **Data Manipulation and Exploration:**
 
-![](https://media.giphy.com/media/4gFSLfM8cuSk0/giphy.gif)
+
   - The first key problem we had to solve was finding out which NTA Uber 2014 pickups took
 place in. We were only given the GPS coordinates of the pickup, and we had to convert this
 information into an NTA.
